@@ -10,7 +10,7 @@ const d = document,
 
 /* DATOS */
 const Arreglo = [
-    ["morder","bite","bit","bitten"],
+   /* ["morder","bite","bit","bitten"],
     ["esconder","hide","hid","hidden"],
     ["romper","break","broke","broken"],
     ["congelar","freeze","froze","frozen"],
@@ -28,7 +28,7 @@ const Arreglo = [
     ["dibujar","draw","drew","drown"],
     ["volar","fly","flew","flown"],
     ["saber","know","knew","known"],
-    ["mostrar","show","showed","shown"],
+    ["mostrar","show","showed","shown"],*/
     ["sopla","blow","blew","blown"],
     ["crecer","grow","grew","grown"],
     ["jurar","swear","swore","sworn"],

@@ -28,7 +28,7 @@ main{
     padding: 0 4rem;
     display: grid;
     grid-template-columns: 25% 25% 25%;
-    grid-template-rows: 9rem 9rem; 
+    grid-template-rows: 9rem 9rem 9rem; 
     column-gap: 8.3%;
     row-gap: 4rem;
 }
@@ -77,6 +77,13 @@ main article:nth-child(6) {
     background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
 }
 
+main article:nth-child(7) {
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
+
+main article:nth-child(8) {
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+}
 
 
 /* RESPONSIVE WEB DESING */

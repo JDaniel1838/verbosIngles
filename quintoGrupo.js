@@ -20,11 +20,12 @@ const Arreglo = [
 ];
 
 /* Crear Numeros Aleatorios */
+
 /* let NumEl = Arreglo.length,
 ArrNum = [];
 for(let i = 0; i < NumEl; i++) ArrNum.push(i);
 Arreglo.sort(() => Math.random()-0.5); */
-/* Funcion pinta los datos en el document */
+/* Funcion pinta los datos en el document*/
 function GenVerbo(num) {
     spanish.value = "";
     present.value = "";

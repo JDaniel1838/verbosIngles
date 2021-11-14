@@ -53,6 +53,11 @@ d.addEventListener("DOMContentLoaded",(e)=>{
 let inS, inPres, inPas, inPar, contador = 0, CheckArreglo = [];
 
 d.addEventListener("submit",(e)=>{
+    spanish.value = spanish.value.trim().toLowerCase();
+    present.value = present.value.trim().toLowerCase();
+    past.value = past.value.trim().toLowerCase();
+    participle.value = participle.value.trim().toLowerCase();
+
     e.preventDefault();
     inS = spanish.value;
     inPres = present.value;
